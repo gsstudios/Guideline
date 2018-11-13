@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Raspberry PI
+# Raspberry PI
 
 The Raspberry PI is the most popular single-board computer.
 
