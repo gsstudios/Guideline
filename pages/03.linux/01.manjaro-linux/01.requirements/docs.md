@@ -5,4 +5,3 @@ taxonomy:
         - docs
 ---
 
-# Manjaro Linux - Requirements
