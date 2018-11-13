@@ -2,8 +2,7 @@
 title: Hardware
 published: true
 taxonomy:
-    category:
-        - docs
+    category: docs
 ---
 
 *  [Raspberry Pi kit](https://www.amazon.co.uk/Raspberry-Pi-Official-Desktop-Starter/dp/B01CSD1WV2/ref=pd_sbs_147_6?_encoding=UTF8&refRID=K495HWW1N1DTDKP7G09Q&th=1) (Amazon link)
