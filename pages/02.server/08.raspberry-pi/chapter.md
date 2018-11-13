@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+## Raspberry PI
+
 The Raspberry PI is the most popular single-board computer.
 
 It's perfectly made (amongst other things) to get a running server at your home. It doesn't cost much power and it's small so it fits everywhere.
