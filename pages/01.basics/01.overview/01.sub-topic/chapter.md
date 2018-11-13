@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-# Software of the Raspberry PI - Image
+# Raspberry PI - Software
 
 ### Which Software are included in the Raspberry Pi Image?
 
