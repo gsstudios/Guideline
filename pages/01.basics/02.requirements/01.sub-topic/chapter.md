@@ -5,6 +5,8 @@ taxonomy:
         - docs
 ---
 
+# Software of the Raspberry PI - Image
+
 ### Which Software are included in the Raspberry Pi Image?
 
 ### Arch Linux ARM
