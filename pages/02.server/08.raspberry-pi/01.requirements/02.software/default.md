@@ -1,5 +1,5 @@
 ---
-title: 'Pi - Software'
+title: Software
 taxonomy:
     category: docs
 ---
