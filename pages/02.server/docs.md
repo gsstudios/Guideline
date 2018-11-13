@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-# Server
-
 We provide 2 options for the server.
 
 1. Image (Image Docu) = Raspberry Pi 1, 2 and 3 (3B+ not Supported, yet)
