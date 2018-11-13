@@ -1,63 +1,85 @@
 ---
-title: Sub-Topic
+title: 'Software of the Raspberry PI - Image'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
-Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
-surdaeque *quid*. Volandi viam iter fugae et hic quod quid, opus pete Phaethusa.
+# Software of the Raspberry PI - Image
 
-- Laevum ritusque
-- Ponat dea fuit mollitaque
-- Saepe tempora miserrima late duxerat quoque coniugialia
-- Corpore sua iam reversurum agros visa peregrina
+### Which Software are included in the Raspberry Pi Image?
 
-## Praesentia duobus si inplicuit sternebat aguntur urbes
+### Arch Linux ARM
 
-Invisi sororum honorque: recursus corpore est flammaque corporeasque magno, dis.
-Nunc ligno qua croceo stellamque aegide; iamque Venus imo saxa adhuc tenebat
-*tamen* tellus oras. Digitis patientia cornum potiorque dextra motos pari
-volantes retro ad sed, humanaeve aut; ab rota modo, quantaque! Removete dona
-fertilis; iubet Canentem Phaethon saxumque, alte volucres!
+Arch Linux operating system …
 
-    rw_horizontal.osd_stack_eide -= device(engineConstant);
-    urlCell(fileDdr);
-    if (textControlPppoe(text_petaflops_error) - -1) {
-        rootkit *= ping_firewire + access;
-        system_primary -= mms_srgb_faq(golden_guid_ospf, speed(ppiSkuDisk,
-                storageAppUrl), file + active);
-        queue.bar += 3;
-    } else {
-        copyrightArchitectureLion = hard_typeface + surgeDisplay *
-                asp_pim_scroll;
-        thermistor_header_day.mirror_uml = blogTSpeed.json_address_honeypot(ttl,
-                hubIcq(1));
-        dragFloppy += botMacWavelength.protector_wavelength(d_youtube);
-    }
-    var number = key.png_uat.systemFirmware(fpuModemPerl + -4) -
-            promptDriveDrive.hardDomain(cardVariableMini);
+is known as a leading/bleeding/cutting edge ([Wikipedia link](https://en.wikipedia.org/wiki/Bleeding_edge_technology)) and as a rolling release ([Wikipedia link](https://en.wikipedia.org/wiki/Rolling_distribution)) distro ([Wikipedia link](https://en.wikipedia.org/wiki/Linux_distribution)). This means that you will receive the updated software very quickly. You don’t have to “jump” to another version like Windows 7 to Windows 10 or Ubuntu 16.04 to Ubuntu 18.04 etc. which can be painful sometimes. Three other good reasons for Arch are:
 
-## Pelagi illa est et et quod
+1. The security patches will be fixed very fast, because you’re always up to date.
+2. You only have software on your system, what you have installed. No bloatware ([Wikipedia link](https://en.wikipedia.org/wiki/Pre-installed_software)).
+3. [Arch wiki](https://wiki.archlinux.org/) is huge and very helpful.
 
-Hic lacrimis [caput](http://jaspervdj.be/) est consilii, sanguine luctus
-gemitusque blandis. Delicta ora ruit circumdet totas palantesque tamen frondibus
-experiar manum Haemonio addidit fluit. Ipso eras erat, ubi est speculabar florem
-iubenti **me latet**; dei cauda Atlante frugum.
+The downside can be an unstable system because the new software is not tested properly. For this reason, we recommend that you follow our update interval, which is on the 20th each month ([PwOSS link](https://pwoss.xyz/#updates)). But we’ve been using Arch for a while and never had any major problems.
 
-1. Viso cum
-2. Manant diris
-3. Enim adverso Talia et interea iurares
-4. Hoc iussit meruisse suum e gerit sub
-5. Sicelidas ait
+The disadvantage of number 2: If you are unfamiliar with Linux, you should not use Arch for your desktop/laptop PC. It can be very time consuming to get a running system, because nothing is installed (Manjaro is fine – user friendly distro based on Arch). That’s why we chose Manjaro Linux & Linux Mint in our desktop/laptop PC “Guideline”, which is very easy to install.
 
-Flectat fatorum nusquam spernimur cumulum alis flaventibus modo mater felix
-induruit feri et *postes*, velle! Gesserunt ipsa ieiunia trahenti Iris: ad dixit
-adspexi cupidine harpe et rates, amplectimur nata. Spargit te laedere nec;
-remisit pars reppulit. Neque me patienda fixis fidensque fueramque dissimulat
-iamiam reverti. Sed hic aut Phorbantis
-[optas](http://www.thesecretofinvisibility.com/), luctus nunc glandes miremur
-qui sumpto, subit.
 
-Ab adesse dixit data habet altera rotae et stirpes vivacem. Natalis quam? Nunc
-eunt [Venusque](http://twitter.com/search?q=haskell) facit Teucri, nec vestes,
-nova percutiens confertque Minyis?
+### Seafile
+
+Seafile is a cloud server like Dropbox, Google Drive etc. ([Wikipedia link](https://en.wikipedia.org/wiki/Seafile)).
+
+Seafile is focused on synchronized files only. Seafile is very solid without any problems. No missing data, no corrupt data… . It’s doing what’s made for. The synchronization between your Devices is just working great. That’s the reason we chose it.
+
+
+### Radicale
+
+Radicale is a server to sync your calendar, contacts and todo list ([Radicale link](https://radicale.org/)).
+Same like Seafile. It’s just doing what’s made for.
+
+
+### OpenVPN
+
+OpenVPN is to reach all your server and to get a encrypted connection all the time ([Wikipedia link](https://en.wikipedia.org/wiki/OpenVPN)).
+
+
+### LUKS
+
+(Linux Unified Key Setup)
+
+LUKS is to encrypt your externalHD/HardDrive or USB Stick. If a burglar steals the Hard Drive or anyone else wants to get access to your personal data. The only way to use the Hard Drive without the key or password is to format/delete the whole device. So, keep the key or password safe.
+
+
+### Yay
+
+Yay is a AUR-Helper. What is AUR ([Archlinux.org link](https://wiki.archlinux.org/index.php/Arch_User_Repository))?
+The Helper is needed for libsepol and libselinux which is necessary to get the Seafile server running.
+
+
+### Downgrade
+
+Sometimes it is necessary to downgrade a software because of a unstable system. The software “downgrade” makes it very simple.
+[Github link](https://github.com/pbrisbin/downgrade)
+
+
+### MariaDB
+
+MariaDB is a database management tool. Which is necessary for example to safe your login data for your Seafile server ([Wikipedia link](https://en.wikipedia.org/wiki/MariaDB)).
+
+
+### DDClient
+
+DDClient is needed for your Dynamic DNS ([archlinux.org link](https://wiki.archlinux.org/index.php/Dynamic_DNS)) – noip.com account. Mostly every Internet Service Provider (ISP) is changing your ip address (daily, weekly or monthly). Why?
+
+So, you’ll need actually a static IP Adress (which can be expensive) otherwise your VPN connection doesn’t work and your servers aren’t reachable. DDClient is sending your IP adress to your Dynamic DNS Account.
+
+
+### Cronie
+
+This software is needed for DDClient. A time schedule possibility to send commands to your system on time. The “cronjob” for your DDClient runs at 4:45 am every day ([archlinux.org link](https://wiki.archlinux.org/index.php/Cron)).
+
+
+### UFW
+
+(Uncomplicated Firewall)
+
+UFW is your firewall ([Wikipedia link](https://en.wikipedia.org/wiki/Firewall_(computing))).
