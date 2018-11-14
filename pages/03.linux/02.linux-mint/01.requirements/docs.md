@@ -5,4 +5,4 @@ taxonomy:
         - docs
 ---
 
-# Linux Mint - Requirements
+# Linux Mint
