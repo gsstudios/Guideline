@@ -16,10 +16,10 @@ We started once with a 'HTC HD2' which was released 2009 ([Wikipedia link](https
 
 Since then, nothing changed much. The main princip was always the same.
 
-1.Custom Recovery
-2.Root
-3.Rom
-4.Apps
+1. Custom Recovery
+2. Root
+3. Rom
+4. Apps
 
 Over the years, it was necessary to get the bootloader open for different certain phones like the Nexus of Google. 
 
