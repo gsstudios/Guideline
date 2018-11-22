@@ -9,7 +9,7 @@ More information about __PwOSS - Privacy with Open Source Software__ is at https
 <br>
 <br>
 ## More People
-We are looking for help. If you are interested. Let us know.
+We are looking for help. If you are interested, let us know.
 <br>
 <br>
 <br>
