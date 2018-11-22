@@ -13,7 +13,7 @@ After installing and restarting your new system, connect your system to the Inte
 and follow the instruction.
 
 
-Afterwards, install at first yaourt for yay (I know, it’s sounds stupid for the pros here)
+Afterwards, install at first yaourt for yay (We know, it’s sounds stupid for the pros here)
 
     sudo pacman -S yaourt && yaourt -S yay && sudo pacman -Rs yaourt
 It’s just quicker.
