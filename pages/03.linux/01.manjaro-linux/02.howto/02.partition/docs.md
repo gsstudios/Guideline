@@ -1,5 +1,8 @@
 ---
 title: Partition
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Manjaro Linux
