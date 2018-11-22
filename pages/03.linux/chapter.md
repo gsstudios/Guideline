@@ -7,7 +7,7 @@ taxonomy:
 
 # Linux
 
-If you don't want Windows, Mac etc. anymore you'll find here a **HowTo** for two good operating systems for your Computer.
+If you don't want Windows, Mac etc. anymore you'll find here a **HowTo** for two good operating systems for your computer.
 
 ### Linux Mint
 
