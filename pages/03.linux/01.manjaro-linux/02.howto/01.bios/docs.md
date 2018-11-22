@@ -1,5 +1,5 @@
 ---
-title: Bios
+title: BIOS
 taxonomy:
     category:
         - docs
