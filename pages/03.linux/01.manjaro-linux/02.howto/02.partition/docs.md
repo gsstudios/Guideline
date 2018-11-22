@@ -13,6 +13,4 @@ We recommend to set up **_3_** partition.
 This makes it very convenient to try a different distribution without saving your data. But do not forget to save the key from / = “/crypto_keyfile.bin”
 So choose also the encryption option for the home partition.
 
-(After installing your operating system, you need to change back your BIOS settings)taxonomy:
-    category:
-        - docs
+(After installing your operating system, you need to change back your BIOS settings)
