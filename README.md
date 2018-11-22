@@ -5,7 +5,9 @@ The PwOSS - Guideline is at https://guideline.pwoss.xyz.
 If you find any typos, wrong explanation or if you have any other idea create an __issue__ or a __pull request__ on GitHub.
 
 More information about __PwOSS - Privacy with Open Source Software__ is at https://pwoss.xyz/.
-
+<br>
+<br>
+<br>
 ## More People
 We are looking for help. If you are interested. Let us know.
 <br>
