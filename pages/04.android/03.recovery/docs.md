@@ -5,7 +5,6 @@ taxonomy:
         - docs
 ---
 
-### About Recovery:
 Recovery is an independent, lightweight runtime environment that is included on a separate partition from the main Android operating system on all Android devices. You can boot directly into recovery mode and use it to factory reset your device, delete the cache partition, or apply software updates.
 
 # TWRP - Team Win Recovery Project
