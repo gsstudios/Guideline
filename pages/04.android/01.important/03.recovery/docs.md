@@ -9,6 +9,6 @@ Recovery is an independent, lightweight runtime environment that is included on 
 
 # TWRP - Team Win Recovery Project
 Over the years TWRP is the most used Custom-Recovery. The Custom-Recovery is necessary to flash a Custom-ROM.<br>
-Search for TWRP for your device [here](https://twrp.me/Devices/)<br>
+Search for your device [here](https://twrp.me/Devices/) to get TWRP<br>
 More Infos about TWRP -> [here](https://twrp.me/about/)
 
