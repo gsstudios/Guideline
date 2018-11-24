@@ -10,4 +10,4 @@ AFWall+, for example, is using the iptables firewall ([Wikipedia - link](https:/
 
 You have to be very careful to use the right applications. Check the mantainer, date (how long is it available) and is it open source! A _root app_ also has full control over your device! Remember, when you install a _root app_.
 
-Root is not necassary! You could go with a Custom ROM but there is no need to use root. For privacy reasons, it is easier to use root, but there are some options without root.
+Root is not necessary! You could go with a Custom ROM but there is no need to use root. For privacy reasons, it is easier to use root, but there are some options without root.
