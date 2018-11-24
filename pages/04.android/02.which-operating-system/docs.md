@@ -1,5 +1,5 @@
 ---
-title: 'Which Operating System?'
+title: 'Operating System'
 taxonomy:
     category:
         - docs
