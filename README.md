@@ -1,5 +1,4 @@
 # PwOSS - Guideline
-Gitlab sync test
 
 The PwOSS - Guideline is at https://guideline.pwoss.xyz.
 
