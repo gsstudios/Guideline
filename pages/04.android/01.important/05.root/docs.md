@@ -12,7 +12,7 @@ You have to be very **careful** to use the **right root applications**. Check th
 
 Some device manufacturers give **no guarantee** if they know that you have used root. We never had the problem, but that does not change the fact that some manufacturers do not give you the guarantee!
 
-No over-the-air (OTA) updates with root. This means that your device will no longer receive updates from Google, Samsung, etc. Well, it doesn't matter! **LineageOS updates** are usually **available** even **longer** than your manufacturer!
+No over-the-air (OTA) updates with root. This means that your device will no longer receive updates from Google, Samsung, etc. Well, it doesn't matter! **LineageOS updates** are usually **available** even **longer** than your manufacturer! So all new security patches ([Android Security Bulletin - link](https://source.android.com/security/bulletin))  are included in all LineageOS-ROMs (official). Of course, updated LineageOS-ROMs.
 
 Applications such as bank **apps** may **stop working** when they **detect a rooted phone**. You can still use your browser, laptop/desktop PC or easiest way to use Magisk-Root to hide root for specific apps.
 
