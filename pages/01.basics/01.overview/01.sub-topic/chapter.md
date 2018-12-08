@@ -1,5 +1,5 @@
 ---
-title: 'Software of the Raspberry PI - Image'
+title: 'Software of the Raspberry Pi - Image'
 taxonomy:
     category:
         - docs
@@ -7,7 +7,7 @@ taxonomy:
 
 # Raspberry PI - Software
 
-### Which Software are included in the Raspberry Pi Image?
+### Which Software are included in the Raspberry Pi - Image?
 
 ### Arch Linux ARM
 
@@ -28,7 +28,7 @@ The disadvantage of number 2: If you are unfamiliar with Linux, you should not u
 
 Seafile is a cloud server like Dropbox, Google Drive etc. ([Wikipedia link](https://en.wikipedia.org/wiki/Seafile)).
 
-Seafile is focused on synchronized files only. Seafile is very solid without any problems. No missing data, no corrupt data… . It’s doing what’s made for. The synchronization between your Devices is just working great. That’s the reason we chose it.
+Seafile is focused on synchronized files only. Seafile is very solid without any major problems. No missing data, no corrupt data… . It’s doing what’s made for. The synchronization between your Devices is just working great. That’s the reason we chose it.
 
 
 ### Radicale
@@ -39,7 +39,7 @@ Same like Seafile. It’s just doing what’s made for.
 
 ### OpenVPN
 
-OpenVPN is to reach all your server and to get a encrypted connection all the time ([Wikipedia link](https://en.wikipedia.org/wiki/OpenVPN)).
+OpenVPN is to reach all your services (server) and to get an encrypted connection all the time ([Wikipedia link](https://en.wikipedia.org/wiki/OpenVPN)).
 
 
 ### LUKS
@@ -68,7 +68,7 @@ MariaDB is a database management tool. Which is necessary for example to safe yo
 
 ### DDClient
 
-DDClient is needed for your Dynamic DNS ([archlinux.org link](https://wiki.archlinux.org/index.php/Dynamic_DNS)) – noip.com account. Mostly every Internet Service Provider (ISP) is changing your ip address (daily, weekly or monthly). Why?
+DDClient is needed for your Dynamic DNS ([archlinux.org link](https://wiki.archlinux.org/index.php/Dynamic_DNS)) – noip.com account. Mostly every Internet Service Provider (ISP) is changing your ip address (daily, weekly or monthly).
 
 So, you’ll need actually a static IP Adress (which can be expensive) otherwise your VPN connection doesn’t work and your servers aren’t reachable. DDClient is sending your IP adress to your Dynamic DNS Account.
 

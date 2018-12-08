@@ -15,4 +15,4 @@ Few ‘known’ info straightaway:
 * We know, there is Nextcloud.
 * We know, the Nexus is great but a low budget phone can be great as well.
 * We know, these and that but we also know that we don’t know everything.
-* So, you’re very welcome to join the Community and share your ideas or get help. But please stay calm and be always friendly. Thanks.
+* So, you’re very welcome to join the [Community](https://forum.pwoss.xyz/) and share your ideas or get help. But please stay calm and be always friendly. Thanks.
