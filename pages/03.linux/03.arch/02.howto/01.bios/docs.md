@@ -17,7 +17,7 @@ __Go to:__
 
 2. BOOT DEVICE PRIORITY (or similar)
 
-Put the USB at the first place (with F5 and F6). Hit the button _esc_ until _save changes and reset__. Hit _enter_ and _yes_.
+Put the USB at the first place (with F5 and F6). Hit the button _esc_ until _save changes and reset_. Hit _enter_ and _yes_.
 
 Reboot and choose Start: Boot Arch Linux (x86_64)
 
