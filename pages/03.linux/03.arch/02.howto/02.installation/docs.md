@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Install the iso file to your usb Stick
+## Install the ISO file
 ```
 fdisk -l
 ```
