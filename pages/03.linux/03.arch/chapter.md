@@ -10,5 +10,6 @@ __!!!Still under process!!!__
 _This isn't recommended!_
 
 &nbsp;
-
-If you have enough time and you would like to learn more about Arch Linux ... go for it. Otherwise, use Manjaro, Mint, Ubuntu, etc., these are really good Linux distributions!
+If you have enough time and you would like to learn more about Arch Linux ... go for it!
+&nbsp;
+Otherwise, use Manjaro, Mint, Ubuntu, etc., these are really good Linux distributions!
