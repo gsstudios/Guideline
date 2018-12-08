@@ -18,10 +18,11 @@ __Check the .ISO file:__
 - for Arch user
   - ```pacman-key -v archlinux-<version>-x86_64.iso.sig```
 
+  &nbsp;
 - other [GnuPGP](https://wiki.archlinux.org/index.php/GnuPG) systems
-
   - ```gpg --keyserver pgp.mit.edu --keyserver-options auto-key-retrieve --verify archlinux-<version>-x86_64.iso.sig```
 
+  &nbsp;
 - and check the md5sum with the following command
   - ```md5sum archlinux-2018.12.01-x86_64.iso```
 
