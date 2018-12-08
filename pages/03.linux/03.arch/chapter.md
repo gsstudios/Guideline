@@ -1,5 +1,5 @@
 ---
-title: 'Arch Linux'
+title: '(Optional) Arch Linux'
 taxonomy:
     category: docs
 ---

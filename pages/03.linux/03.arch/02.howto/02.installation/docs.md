@@ -1,3 +1,10 @@
+---
+title: Installation
+taxonomy:
+    category:
+        - docs
+---
+
 # How to install Arch on your 64 bit computer
 
 ## .ISO Download
