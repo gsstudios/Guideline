@@ -9,9 +9,9 @@ taxonomy:
 
 [Manjaro](https://manjaro.org/get-manjaro/) – link
 
-Manjaro comes in different "flavors". If you have an older PC (e.g. prior to 2009), you can go with the Xfce desktop environment (DE). Xfce has been well received for being light on system resources without sacrificing on customizability. Its user interface (UI) is quite similar to older Windows versions (XP), and hence can be seen as a viable replacement for a tradition desktop. If you have a relatively modern system (e.g 2012 or newer), the K Desktop Environment (KDE) will provide all features of a modern desktop environment, without sacrificing too much on system resources. 
+Manjaro comes in different "flavors". If you have an old system, you can go with the Xfce desktop environment (DE). Xfce is well-known throughout the enthusiast community for being light on system resources by stripping down on unnecessary features whilst keeping a traditional desktop experience. Its user interface (UI) is quite similar to older versions of Windows (such as XP). If you have a relatively modern system (or a system that is sufficiently fast enough), the K Desktop Environment (KDE) will provide all features of a modern desktop environment, boasting beautiful desktop effects and a plethora of customisation options. 
 
-A lot of modern laptops now come with touchscreen support. Linux support for touchscreen laptops greatly depends on the desktop environment and the application that user wants to use. The GNOME desktop environment, while being known for being heavier on resources, is quite well optimised for touch devices. 
+A lot of modern laptops now come with touchscreen support. Linux support for touchscreen laptops greatly depends on the desktop environment and the applications the user wants to use. The GNOME desktop environment, while being known for being heavier on resources, is quite well optimised for touch devices. 
 
 Every version has their own strength and weaknesses. Here is an overview of the different versions [quora.com](https://www.quora.com/Is-there-a-good-comparison-between-Cinnamon-Xfce-KDE-and-MATE-Which-one-should-I-choose).
 
