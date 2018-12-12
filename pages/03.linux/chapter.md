@@ -1,4 +1,4 @@
----
+ ---
 title: Linux
 taxonomy:
     category:
@@ -15,4 +15,6 @@ If you don't want Windows, Mac etc. anymore you'll find here a **HowTo** for two
 
 ### Manjaro Linux
 
-Both are brilliant user friendly distros (operating system) especially if you're coming from Windows. 
+Both are brilliant user friendly distros (operating systems) especially if you're coming from Windows.
+
+(_optional and only recommended if you want to learn more about_ = __Arch Linux__)
