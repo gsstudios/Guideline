@@ -19,7 +19,7 @@ Afterwards, install at first yaourt for yay (We know, it’s sounds stupid for t
     sudo pacman -S yaourt && yaourt -S yay && sudo pacman -Rs yaourt
 It’s just quicker.
 
-If you are using the KDE version, we recommend disabling “Baloo” (the indexing service for KDE). 
+If you are using the KDE version, we recommend disabling “Baloo” (the indexing service for KDE). Baloo checks for files stored on the system, however this can be very resource consuming, and hence can degrade system performance.
 
 Terminal command is:
 
