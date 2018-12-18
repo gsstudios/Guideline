@@ -7,7 +7,7 @@ taxonomy:
 
 Set up your Pi. [Raspberrypi.org](https://www.raspberrypi.org/learning/hardware-guide/quickstart/) (You can skip 2,3 and 4 but connect your external hard drive)
 
-How to connect your Raspberry Pi? The commands are written in the .pdf file. You’ll only need a running terminal.
+How to connect your Raspberry Pi? The commands are written in the .md file. You’ll only need a running terminal.
 
 * Linux – Search your apps for your terminal
 * Mac – Search your apps for your terminal
