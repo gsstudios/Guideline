@@ -52,7 +52,7 @@ LUKS is to encrypt your externalHD/HardDrive or USB Stick. If a burglar steals t
 ### Yay
 
 Yay is a AUR-Helper. What is AUR ([Archlinux.org link](https://wiki.archlinux.org/index.php/Arch_User_Repository))?
-The Helper is needed for libsepol and libselinux which is necessary to get the Seafile server running.
+The Helper is needed for a few dependencies which are necessary to get the Seafile server running and for the downgrade software.
 
 
 ### Downgrade
@@ -70,7 +70,7 @@ MariaDB is a database management tool. Which is necessary for example to safe yo
 
 DDClient is needed for your Dynamic DNS ([archlinux.org link](https://wiki.archlinux.org/index.php/Dynamic_DNS)) – noip.com account. Mostly every Internet Service Provider (ISP) is changing your ip address (daily, weekly or monthly).
 
-So, you’ll need actually a static IP Adress (which can be expensive) otherwise your VPN connection doesn’t work and your servers aren’t reachable. DDClient is sending your IP adress to your Dynamic DNS Account.
+So, you’ll need actually a static IP address (which can be expensive) otherwise your VPN connection doesn’t work and your servers aren’t reachable. DDClient is sending your IP address to your Dynamic DNS Account.
 
 
 ### Cronie
