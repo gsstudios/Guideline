@@ -7,7 +7,7 @@ taxonomy:
 
 ## Manjaro Linux
 
-### Recommended System Requirements 
+### Recommended System Requirements
 > - One gigabyte (GB) of memory (RAM)
 > - Thirty gigabytes (GB) of hard disk space
 > - A one gigahertz (GHz) processor
@@ -16,10 +16,10 @@ taxonomy:
 
 ***Note: It is highly advised that you exceed the recommended requirements for a smooth system operation. Factors such the desktop environment (DE) and user specific applications may require more resources.***
 
-### System Archtecture
+### System Architecture
 
 The following items are also recommended:
 - A reliable 4GB (or greater) USB stick
 - Keyboard and mice
 
-The USB Stick is necessary for the installation of the system. Also, having a reliable USB stick from a reputable brand will help ensure that the process goes smoothly. 
+The USB Stick is necessary for the installation of the system. Also, having a reliable USB stick from a reputable brand will help ensure that the process goes smoothly.
