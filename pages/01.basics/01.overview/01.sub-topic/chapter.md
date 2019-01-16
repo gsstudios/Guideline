@@ -83,3 +83,64 @@ This software is needed for DDClient. A time schedule possibility to send comman
 (Uncomplicated Firewall)
 
 UFW is your firewall ([Wikipedia link](https://en.wikipedia.org/wiki/Firewall_(computing))).
+
+
+# New Software Included: 20.01.2019
+
+### Pi-Hole
+
+Pi-Hole ([Wikipedia link](https://en.wikipedia.org/wiki/Pi-hole)) is very useful to block ADS on all your devices. In combination with VPN you're even able to block ADS on a Iphone, Smart-TVs and other IoT-Infrastructure.
+It's very interesting to see what every single device is doing in the background.
+
+
+### Nginx
+
+Nginx ([Wikipedia link](https://en.wikipedia.org/wiki/Nginx)) is your web server ([Wikipedia link](https://en.wikipedia.org/wiki/Web_server)) to serve software like Pi-Hole. Nginx is low resource consumption and is well known for its stability.
+
+
+### PHP
+
+PHP ([Wikipedia link](https://en.wikipedia.org/wiki/PHP)) is a popular general-purpose scripting language that is especially suited to web development.
+
+Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+Needed for Pi-Hole and Adminer.
+
+
+### Adminer
+
+Adminer ([Wikipedia link](https://en.wikipedia.org/wiki/Adminer)) is like phpMyAdmin.
+Adminer is a tool for managing content in MariaDB databases. Adminer is light and low resource consumption.
+
+
+### raspiBackup
+
+raspiBackup ([GitHub link](https://github.com/framps/raspiBackup)) is a tool to backup your whole operating system/Raspberry - SD Card.
+Your system gets backed up every morning at 5 am.
+
+
+### Samba
+
+Samba ([Wikipedia link](https://en.wikipedia.org/wiki/Samba_(software))) is necessary if you need access to your externalHD. Easy access for Windows, Linux, Android etc. Quick solution to save some data from your Android phone for example.
+
+
+### FreshRSS
+
+FreshRSS ([GitHub link](https://github.com/FreshRSS/FreshRSS)) is a self-hosted RSS feed aggregator. It is lightweight, easy to work with, powerful, and customizable.
+If you tired of reading "everything". Just set up your own RSS feeds on your own server.
+
+
+### FireFox Sync Server
+
+If you followed the steps from ([privacytools.io link](https://www.privacytools.io/#browser)) then the Firefox sync server will complete your data leaking issue of your browser.
+Every history, open tab, closed tab, and all your bookmarks are synchronized at your own server. ([Wikipedia link](https://en.wikipedia.org/wiki/Firefox_Sync#Sync_Server))
+
+
+### Fail2Ban
+
+Fail2Ban ([Wikipedia link](https://en.wikipedia.org/wiki/Fail2ban)) is an intrusion prevention software framework that protects computer servers from brute-force attacks.
+
+
+## msmtp
+
+msmtp ([marlam.de link](https://marlam.de/msmtp/)) is a very simple and easy to use SMTP client.
+That's necessary, to get some information about your system per email. Like, "raspiBackup completed"
