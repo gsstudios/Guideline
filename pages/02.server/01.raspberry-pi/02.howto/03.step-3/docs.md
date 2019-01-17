@@ -15,10 +15,10 @@ Put the SD-Card in your Pi and turn it on.
 ### How to connect to your Raspberry Pi
 Open your terminal.
 
-> Linux – Search your apps for your terminal \
-> Mac – Search your apps for your terminal \
-> Windows – [Raspberrypi.org](https://www.raspberrypi.org/documentation/remote-access/ssh/windows.md) \
-You have to find your local IP address of your raspberry pi to connect per SSH to the terminal.
+> - Linux – Search your apps for your terminal  
+> - Mac – Search your apps for your terminal  
+> - Windows – [Raspberrypi.org](https://www.raspberrypi.org/documentation/remote-access/ssh/windows.md)  
+You have to find your local IP address of your Raspberry Pi to connect per SSH to the terminal.
 
 Terminal command:
 ```
@@ -33,5 +33,5 @@ ssh pwoss@192.168.1.76
 pwoss
 ```
 
-> The commands are written in the [.md](https://seafile.pwoss.xyz/d/1215a57671da473cadbe/files/?p=/1.%20Raspberry%20Pi/Arch%20Linux%20%7C%20ARM/PwOSS%20-%20Image/Latest/Raspberry%20-%20Archlinux%20Arm%20-%20Minimal%20Solution%20%28Image%20Docu%29.md) file as well. \
+> The commands are written in the [.md](https://seafile.pwoss.xyz/d/1215a57671da473cadbe/files/?p=/1.%20Raspberry%20Pi/Arch%20Linux%20%7C%20ARM/PwOSS%20-%20Image/Latest/Raspberry%20-%20Archlinux%20Arm%20-%20Minimal%20Solution%20%28Image%20Docu%29.md) file as well.  
 > If you’re fully helpless just ask us or the [forum](http://forum.pwoss.xyz/).
