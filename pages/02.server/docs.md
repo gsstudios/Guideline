@@ -13,7 +13,6 @@ We provide 2 main options for the server.
 > 64 Bit:  
 > If we get more time we want to check the "(Scratch Docu).md" file on a 64 Bit Arch system.
 > Seafile server download - link needs to be changed and cower isn't in the official Arch repo - > use makepkg instead ([Archlinux link](https://wiki.archlinux.org/index.php/Makepkg))).
-
-
+  
 > Other ARM devices:  
 > It would be perfect if you could help with other ARM devices. The scratch file should work on all ARM devices (ArchLinux | ARM - Images).
