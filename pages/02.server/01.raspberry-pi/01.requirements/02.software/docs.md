@@ -20,5 +20,5 @@ taxonomy:
 > It's recommended to download the other files from "Current path: PwOSS - Server / 1. Raspberry Pi / Arch Linux | ARM / PwOSS - Image / Latest" as well (Changelog isn't necessary).  
 > Explanation is in Step 2.  
 
-> - Scratch File:
+> - Scratch File:  
 The “PwOSS - Server | Raspberry - Archlinux | ARM - (Scratch Docu).md” file in the "Current path: PwOSS - Server / 1. Raspberry Pi / Arch Linux | ARM / Arch Linux | ARM - (Scratch Docu) " folder is for users who do not want to use the PwOSS - Image.

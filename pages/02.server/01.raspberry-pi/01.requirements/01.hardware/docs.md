@@ -12,5 +12,5 @@ taxonomy:
 &nbsp;
 
 > - Check other listings or your local area or whatever you prefer. These ones are just examples.  
-> - A minimum size of 8GB is necessary for the SD Card. Go with more and you’re prepared for more Software.  
-> - Your router needs the possibility of port forwarding and the possibility to configure the DNS server for LAN devices.
+> - A minimum size of 8GB is necessary - SD Card. Go with more and you’re prepared for more software.  
+> - Your router needs the possibility of port forwarding and the possibility to configure the DNS server for Pi-Hole.

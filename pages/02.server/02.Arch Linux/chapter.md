@@ -14,4 +14,4 @@ And follow the “PwOSS - Server | Raspberry - Archlinux | ARM - (Scratch Docu).
 [Seafile link](https://seafile.pwoss.xyz/d/1215a57671da473cadbe)  
 [GitHub link])(need to change the repos first)
 
-> Seafile server download - link needs to be changed, LUKS installation has to be changed and cower isn't in the official Arch 64 Bit repo - use makepkg instead ([Archlinux link](https://wiki.archlinux.org/index.php/Makepkg)
+> Seafile server download - link needs to be changed, LUKS installation has to be changed and cower isn't in the official Arch 64 Bit repo - use makepkg instead ([Archlinux link](https://wiki.archlinux.org/index.php/Makepkg))

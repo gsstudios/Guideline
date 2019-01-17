@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-### Quick info about the “how we do it”.
+### Quick info about: "How we do it”.
 
 We're choosing the most efficient way ... in our eyes. We know, there are a lot of other possibilities out there. It’s not like you have to get the same hardware or software. We just want to keep it as simple as possible mostly for "normal" users. At no great cost for hardware and entertain, especially with an eye on power bills.
 
