@@ -84,9 +84,8 @@ This software is needed for DDClient. A time schedule possibility to send comman
 
 UFW is your firewall ([Wikipedia link](https://en.wikipedia.org/wiki/Firewall_(computing))).
 
-<centre>
-## New Software Included: 20.01.2019
-</centre>
+
+<p style="text-align: center;">New Software Included: 20.01.2019</p>
 
 
 ### Pi-Hole
