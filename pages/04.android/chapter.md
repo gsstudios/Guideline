@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-# **!Still under process!**
+__!!!Still under process!!!__
 
 # Android
 
@@ -21,6 +21,6 @@ Since then, nothing changed much. The main princip was always the same.
 3. Rom
 4. Apps
 
-Over the years, it was necessary to get the bootloader open for different certain phones like the Nexus of Google. 
+Over the years, it was necessary to get the bootloader open for different certain phones like the Nexus of Google.
 
 It's might be not the same way but mostly they're similar possible ways! Check the following page for support of your phone.
