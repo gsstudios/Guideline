@@ -1,11 +1,11 @@
 ---
-title: 'Software of the Raspberry Pi - Image'
+title: 'Included Software - Server'
 taxonomy:
     category:
         - docs
 ---
 
-# Raspberry PI - Software
+# Server - Software
 
 ### Which Software are included in the Raspberry Pi - Image?
 
@@ -84,6 +84,7 @@ This software is needed for DDClient. A time schedule possibility to send comman
 
 UFW is your firewall ([Wikipedia link](https://en.wikipedia.org/wiki/Firewall_(computing))).
 
+&nbsp;
 
 ## New Software Included: 20.01.2019
 
@@ -146,6 +147,7 @@ Fail2Ban ([Wikipedia link](https://en.wikipedia.org/wiki/Fail2ban)) is an intrus
 msmtp ([marlam.de link](https://marlam.de/msmtp/)) is a very simple and easy to use SMTP client.
 That's necessary, to get some information about your system per email. Like, "raspiBackup completed"
 
+&nbsp;
 
 ## Next Step:
 - SSL
