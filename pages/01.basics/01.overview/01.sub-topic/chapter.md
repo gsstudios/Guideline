@@ -85,7 +85,7 @@ This software is needed for DDClient. A time schedule possibility to send comman
 UFW is your firewall ([Wikipedia link](https://en.wikipedia.org/wiki/Firewall_(computing))).
 
 
-# New Software Included: 20.01.2019
+## New Software Included: 20.01.2019
 
 ### Pi-Hole
 
@@ -140,7 +140,7 @@ Every history, open tab, closed tab, and all your bookmarks are synchronized at 
 Fail2Ban ([Wikipedia link](https://en.wikipedia.org/wiki/Fail2ban)) is an intrusion prevention software framework that protects computer servers from brute-force attacks.
 
 
-## msmtp
+### msmtp
 
 msmtp ([marlam.de link](https://marlam.de/msmtp/)) is a very simple and easy to use SMTP client.
 That's necessary, to get some information about your system per email. Like, "raspiBackup completed"
