@@ -91,8 +91,8 @@ UFW is your firewall ([Wikipedia link](https://en.wikipedia.org/wiki/Firewall_(c
 
 ### Pi-Hole
 
-Pi-Hole ([Wikipedia link](https://en.wikipedia.org/wiki/Pi-hole)) is very useful to block ADS on all your devices. In combination with VPN you're even able to block ADS on a Iphone, Smart-TVs and other IoT-Infrastructure.
-It's very interesting to see what every single device is doing in the background.
+Pi-Hole ([Wikipedia link](https://en.wikipedia.org/wiki/Pi-hole)) is very useful to block ADS on and tracking domains for all your devices. In combination with VPN you're even able to block ADS on a Iphone, Smart-TVs and other IoT-Infrastructure.
+It's very interesting to see what every single device is doing in the background on your network.
 
 
 ### Nginx
@@ -133,7 +133,7 @@ If you tired of reading "everything". Just set up your own RSS feeds on your own
 
 ### FireFox Sync Server
 
-If you followed the steps from ([privacytools.io link](https://www.privacytools.io/#browser)) then the Firefox sync server will complete your data leaking issue of your browser.
+If you followed the steps from [privacytools.io](https://www.privacytools.io/#browser) and from [archlinux.org](https://wiki.archlinux.org/index.php/Firefox/Privacy) then the Firefox sync server will complete your data leaking issue of your browser.
 Every history, open tab, closed tab, and all your bookmarks are synchronized at your own server. ([Wikipedia link](https://en.wikipedia.org/wiki/Firefox_Sync#Sync_Server))
 
 
@@ -149,6 +149,10 @@ That's necessary, to get some information about your system per email. Like, "ra
 
 &nbsp;
 
-## Next Step:
-- SSL
-- changing services to port 443
+## Next Steps:
+- SSL Certificate (self-signed)
+- change servics to port 443 (Nginx Proxy)
+- Email Server - to download all emails (other Email-Provider as a relay)
+- script:
+    - instead of Documentation-Files (Copy & Paste)
+    - changing all default passwords
