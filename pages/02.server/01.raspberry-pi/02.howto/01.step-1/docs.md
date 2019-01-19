@@ -24,7 +24,7 @@ Start your Terminal:
 
 Put all the files in the same folder and run in your Terminal:
 ```
-gpg --import dansman.asc
+gpg --import DanSman.asc
 ```
 ```
 gpg --verify PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx.sig
