@@ -7,7 +7,7 @@ taxonomy:
 
 # Server - Software
 
-### Which Software are included in the Raspberry Pi - Image?
+### Which Software is included in the Raspberry Pi - Image?
 
 ### Arch Linux ARM
 
