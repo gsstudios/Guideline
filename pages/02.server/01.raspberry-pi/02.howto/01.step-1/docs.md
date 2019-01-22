@@ -27,12 +27,12 @@ Put all the files in the same folder and run in your Terminal:
 gpg --import DanSman.asc
 ```
 ```
-gpg --verify PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx.sig
+gpg --verify sha512sum\ -\ PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx.sig
 ```
 > Fingerprint = 4784 F5FF 89F3 06CF B6F7 704C 2A44 D31D E67D 8EB6
 
 ```
-sha512sum -c PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx
+sha512sum -c sha512sum\ -\ PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx
 ```
 > Result should be:
 > PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx.img: OK
