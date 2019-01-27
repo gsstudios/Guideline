@@ -9,7 +9,7 @@ taxonomy:
 2. Download the PwOSS - Files
   - PwOSS-Server_Raspberry-ArchLinux-ARM-xx.xx.xxxx.tar.gz
   - PwOSS - Server | Raspberry - Archlinux | ARM - (Image Docu).md
-  - From [www.seafile.pwoss.xyz](https://seafile.pwoss.xyz/d/1215a57671da473cadbe/?p=/1.%20Raspberry%20Pi/Arch%20Linux%20%7C%20ARM/PwOSS%20-%20Image/Latest&mode=list)  
+  - Get these files from [www.seafile.pwoss.xyz](https://seafile.pwoss.xyz/d/1215a57671da473cadbe/?p=/1.%20Raspberry%20Pi/Arch%20Linux%20%7C%20ARM/PwOSS%20-%20Image/Latest&mode=list)  
 &nbsp;
 3. Download Etcher to flash the Image to your SD-Card
   - [Etcher](https://www.balena.io/etcher/) (www.balena.io - link)
