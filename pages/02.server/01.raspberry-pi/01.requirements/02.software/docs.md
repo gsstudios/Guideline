@@ -18,7 +18,7 @@ taxonomy:
 
 > - Other Files:  
 > It's recommended to download the other files from [www.seafile.pwoss.xyz](https://seafile.pwoss.xyz/d/1215a57671da473cadbe/?p=/1.%20Raspberry%20Pi/Arch%20Linux%20%7C%20ARM/PwOSS%20-%20Image/Latest&mode=list) as well (Changelog isn't necessary).  
-> Explanation is in Step 2.  
+> Explanation is in Step 1.  
 
 > - Scratch File:  
 The “PwOSS - Server | Raspberry - Archlinux | ARM - (Scratch Docu).md” file from [www.seafile.pwoss.xyz](https://seafile.pwoss.xyz/d/1215a57671da473cadbe/?p=/1.%20Raspberry%20Pi/Arch%20Linux%20%7C%20ARM/Arch%20Linux%20%7C%20ARM%20-%20%28Scratch%20Docu%29&mode=list) is for users who do not want to use the PwOSS - Image.
