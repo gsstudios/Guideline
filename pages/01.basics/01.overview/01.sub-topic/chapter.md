@@ -153,6 +153,7 @@ That's necessary, to get some information about your system per email. Like, "ra
 - SSL Certificate (self-signed)
 - change servics to port 443 (Nginx Proxy)
 - Email Server - to download all emails (other Email-Provider as a relay)
+- DNSCrypt-2.0
 - script:
     - instead of Documentation-Files (Copy & Paste)
     - changing all default passwords
