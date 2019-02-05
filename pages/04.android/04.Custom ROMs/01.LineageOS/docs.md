@@ -1,5 +1,5 @@
 ---
-title: 'LineageOS - Operating System'
+title: 'LineageOS'
 taxonomy:
     category:
         - docs
