@@ -1,8 +1,8 @@
 ---
-title: Important
+title: HowTo
 taxonomy:
     category:
         - docs
 ---
 
-The important things first ...
+# HowTo
