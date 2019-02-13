@@ -5,10 +5,10 @@ taxonomy:
         - docs
 ---
 
-On some devices, it is necessary to **open** or **unlock** the **bootloader** to before you can install a **custom recovery**, **root** or **custom ROM**. 
+On some devices, it is necessary to **open** or **unlock** the **bootloader** before you can install a **custom recovery**, **root** or **custom ROM**. 
 Unlocking the bootloader usually requires the phone to be wiped of all data, meaning that you'll have the backup everything. 
-Not all smartphone manufacturers allow the unlocking of the bootloader, so if this concerns you, you must do your research before purchasing your next smartphone. 
-Although uncommon, some manufacturers package an “[eFuse - Wikipedia](https://en.wikipedia.org/wiki/EFUSE)” command in their products, which could brick (permanently damage) if you were to flash a custom ROM. 
+Not all smartphone manufacturers allow the unlocking of the bootloader, so if this concerns you, you must do your **research** before purchasing your next smartphone. 
+Although uncommon, some manufacturers package an “[eFuse - Wikipedia](https://en.wikipedia.org/wiki/EFUSE)” command in their products, which could brick (permanently damage) your device. 
 
 # How to find out if your bootloader is locked
 
