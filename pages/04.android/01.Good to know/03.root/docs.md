@@ -10,7 +10,7 @@ AFWall+, for example, is using the iptables firewall ([Wikipedia - link](https:/
 
 You have to be very **careful** to use the **right root applications**. Check the mantainer, date (how long is it available) and if it is open source! A _root app_ also has full control over your device! You must remember this whenever you install a _root app_.
 
-Rooting your phone typically voids your **warranty**, however this can be **reversible** depending on a case-by-case basis. We have never had a problem, but that does not change the fact that some manufacturers may not outright accept your phone for repair should it every be necessary!
+Rooting your phone typically voids your **warranty**, however this can be **reversible** depending on a case-by-case basis. We have never had a problem, but that does not change the fact that some manufacturers may not outright accept your phone for repair should it ever be necessary!
 
 Over-the-air (OTA) updates are not possible with root. This means that your device will no longer receive updates from your smartphone manufacturer. This brings us to the use of custom ROMs. **LineageOS** can support your device (security updates, etc.) even if your device is not longer supported by your smartphone manufacturer! All new security patches straight from Google ([Android Security Bulletin - link](https://source.android.com/security/bulletin)) are included in all official builds of LineageOS. 
 
